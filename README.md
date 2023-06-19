@@ -2,12 +2,12 @@
 
 [[After the song "Moon River" concludes:]]
 
-Welcome, friends and family of Lainey Bell and Randy Pears. Please, silence your phones as we begin — and enjoy the wonderful music.
+Welcome, friends and family of __BRIDE__ and Randy Pears. Please, silence your phones as we begin — and enjoy the wonderful music.
 
-[[When Lainey is ready to walk down the aisle, to guests:]] 
+[[When __BRIDE__ is ready to walk down the aisle, to guests:]] 
 __All rise!__
 
-[[Wait for procession. Lainey and Randy will stand before me:]] 
+[[Wait for procession. __BRIDE__ and Randy will stand before me:]] 
 __Please take your seats.__
 
 [[Wait for guests to settle.]]
@@ -48,13 +48,13 @@ At this time, I'd like to invite a friend, Elaine, to read a passage from Wilfer
 
 Randy, Lainey, we love you. We're proud of you. We are excited for your mutual journey.
 
-Do you, Randy, take Lainey to be your lawfully wedded wife? To have and to hold, in sickness and in health, in good times and not so good times, for richer or poorer for as long as you both shall live?
+Do you, Randy, take __BRIDE__ to be your lawfully wedded wife? To have and to hold, in sickness and in health, in good times and not so good times, for richer or poorer for as long as you both shall live?
 
 [[Randy answers]]
 
 And do you, Lainey, take Randy to be your lawfully wedded husband? To have and to hold, in sickness and in health, in good times and not so good times, for richer or poorer for as long as you both shall live?
 
-[[Lainey answers]]
+[[__BRIDE__ answers]]
 
 [[RING EXCHANGE:]]
 A ring is an unbroken circle, with ends that have been joined together, and it represents your union. It is a symbol of infinity, and of your infinite love. When you look at these rings on your hands, be reminded of this moment, your commitment, and the love you now feel for each other.
@@ -65,15 +65,15 @@ Randy, place the ring on Lainey's finger and repeat after me:
 
 "Lainey, I give you this ring as a symbol of my love with a pledge: [[pause]] to love you today, tomorrow, always, and forever."
 
-[[Randy repeats.]]
+[[__GROOM__ repeats.]]
 
-And now... Lainey, place the ring on Randy's finger and repeat after me:
+And now... Lainey, place the ring on __GROOM__'s finger and repeat after me:
 
-[[Wait for Lainey to be ready]]
+[[Wait for __BRIDE__ to be ready]]
 
-"Randy, I give you this ring as a symbol of my love with a pledge: [[pause]] to love you today, tomorrow, always, and forever."
+"__GROOM__, I give you this ring as a symbol of my love with a pledge: [[pause]] to love you today, tomorrow, always, and forever."
 
-[[Lainey repeats.]]
+[[__BRIDE__ repeats.]]
 
 To my left are two containers of sand. Please step before them.
 
@@ -81,11 +81,11 @@ To my left are two containers of sand. Please step before them.
 
 That container of sand represents you – all that you were, all that you are, and all that you will ever be.  And today you are combining all of you and your uniqueness into the final vessel.  And just as these grains of sand can no longer be separated into their individual containers again, so shall your marriage and your lives forever be intertwined.
 
-[[Randy and Lainey perform sand ceremony.]]
+[[__GROOM__ and __BRIDE__ perform sand ceremony.]]
 
 [[They will return to their original positions before me.]]
 
-Randy Pares and Lainey Bell, I now pronounce you husband and wife. Randy, you may now kiss the bride.
+__GROOM__ and __BRIDE__, I now pronounce you husband and wife. __GROOM__, you may now kiss the bride.
 
 [[To guests:]] __All rise!__
 
