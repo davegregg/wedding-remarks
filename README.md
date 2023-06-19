@@ -42,7 +42,7 @@ And today, we celebrate the marriage of two of our good friends, __BRIDE__ and _
 
 [[Slight pause]]
 
-At this time, I'd like to invite a friend, Elaine, to read a passage from Wilferd Arlan Peterson's poem, "The Art of the Marriage," selected by the happy couple.
+At this time, I'd like to invite a friend, __READER__, to read a passage from Wilferd Arlan Peterson's poem, "The Art of the Marriage," selected by the happy couple.
 
 [[Elaine gives reading: "...being the right partner."]]
 
