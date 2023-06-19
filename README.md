@@ -2,7 +2,7 @@
 
 [[After the song "Moon River" concludes:]]
 
-Welcome, friends and family of __BRIDE__ and Randy Pears. Please, silence your phones as we begin — and enjoy the wonderful music.
+Welcome, friends and family of __BRIDE__ and __GROOM__. Please, silence your phones as we begin — and enjoy the wonderful music.
 
 [[When __BRIDE__ is ready to walk down the aisle, to guests:]] 
 __All rise!__
