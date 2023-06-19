@@ -7,7 +7,7 @@ Welcome, friends and family of __BRIDE__ and __GROOM__. Please, silence your pho
 [[When __BRIDE__ is ready to walk down the aisle, to guests:]] 
 __All rise!__
 
-[[Wait for procession. __BRIDE__ and Randy will stand before me:]] 
+[[Wait for procession. __BRIDE__ and __GROOM__ will stand before me:]] 
 __Please take your seats.__
 
 [[Wait for guests to settle.]]
@@ -38,7 +38,7 @@ And we pluck the spiders' webs from each other's hair. And even when our egos ar
 
 This is marriage. 
 
-And today, we celebrate the marriage of two of our good friends, Lainey-Bell and Randy, as they journey together and face together all the dualities of life.
+And today, we celebrate the marriage of two of our good friends, __BRIDE__ and __GROOM__, as they journey together and face together all the dualities of life.
 
 [[Slight pause]]
 
@@ -46,28 +46,28 @@ At this time, I'd like to invite a friend, Elaine, to read a passage from Wilfer
 
 [[Elaine gives reading: "...being the right partner."]]
 
-Randy, Lainey, we love you. We're proud of you. We are excited for your mutual journey.
+__GROOM__, __BRIDE__, we love you. We're proud of you. We are excited for your mutual journey.
 
-Do you, Randy, take __BRIDE__ to be your lawfully wedded wife? To have and to hold, in sickness and in health, in good times and not so good times, for richer or poorer for as long as you both shall live?
+Do you, __GROOM__, take __BRIDE__ to be your lawfully wedded wife? To have and to hold, in sickness and in health, in good times and not so good times, for richer or poorer for as long as you both shall live?
 
-[[Randy answers]]
+[[__GROOM__ answers]]
 
-And do you, Lainey, take Randy to be your lawfully wedded husband? To have and to hold, in sickness and in health, in good times and not so good times, for richer or poorer for as long as you both shall live?
+And do you, __BRIDE__, take __GROOM__ to be your lawfully wedded husband? To have and to hold, in sickness and in health, in good times and not so good times, for richer or poorer for as long as you both shall live?
 
 [[__BRIDE__ answers]]
 
 [[RING EXCHANGE:]]
 A ring is an unbroken circle, with ends that have been joined together, and it represents your union. It is a symbol of infinity, and of your infinite love. When you look at these rings on your hands, be reminded of this moment, your commitment, and the love you now feel for each other.
 
-Randy, place the ring on Lainey's finger and repeat after me:
+__GROOM__, place the ring on __BRIDE__'s finger and repeat after me:
 
-[[Wait for Randy to be ready]]
+[[Wait for __GROOM__ to be ready]]
 
-"Lainey, I give you this ring as a symbol of my love with a pledge: [[pause]] to love you today, tomorrow, always, and forever."
+"__BRIDE__, I give you this ring as a symbol of my love with a pledge: [[pause]] to love you today, tomorrow, always, and forever."
 
 [[__GROOM__ repeats.]]
 
-And now... Lainey, place the ring on __GROOM__'s finger and repeat after me:
+And now... __BRIDE__, place the ring on __GROOM__'s finger and repeat after me:
 
 [[Wait for __BRIDE__ to be ready]]
 
